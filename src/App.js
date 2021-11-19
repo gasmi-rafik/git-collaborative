@@ -2,8 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 import Rafik from "./Rafik"
 import Hakim from './Hakim'
-import Amel from './Amel'
-import Nidhal from './Nidhal'
+import Gassen from './Gassen';
 
 function App() {
   return (
@@ -11,7 +10,7 @@ function App() {
       <header className="App-header">
 
         <Rafik />
-
+        <Gassen />
         <p>hello this is my tag hakim </p>
         <p>hello this is my tag rafik</p>
 
@@ -20,11 +19,15 @@ function App() {
 
 
         <h1> hello this is my tag nidhal</h1>
-      </header>
+      
       <Hakim />
       <Amel />
       <Nidhal />
 
+
+        <p> hello this is my tag ghassen</p>
+      </header>
+      <Hakim />
 
     </div>
   );
