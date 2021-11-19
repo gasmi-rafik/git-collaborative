@@ -13,9 +13,22 @@ function App() {
         <Gassen />
         <p>hello this is my tag hakim </p>
         <p>hello this is my tag rafik</p>
+
+        <h3>hello this is my tag amel</h3>
+        <p>hello this is my tag yassine</p>
+
+
+        <h1> hello this is my tag nidhal</h1>
+      
+      <Hakim />
+      <Amel />
+      <Nidhal />
+
+
         <p> hello this is my tag ghassen</p>
       </header>
       <Hakim />
+
     </div>
   );
 }
